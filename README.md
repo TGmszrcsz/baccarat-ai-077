@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 076 篇 - 百家乐Ai预测分析工具：折叠内容应该承载补充信息而非关键条件](https://github.com/TGmszrcsz/baccarat-ai-076) ｜ [下一篇：第 078 篇 - 百家乐Ai预测分析工具：导出文档时保留足够的时间与版本信息](https://github.com/TGmszrcsz/baccarat-ai-078)
+
+<!-- article-chain:end -->
+
 一段文字混合解释来源、状态和计算方式，复查时难以定位。本篇围绕“用表格把记录口径写得一目了然”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
